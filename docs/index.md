@@ -1,6 +1,4 @@
-[![!CyVerse Learning Center](assets/logos/cyverse_logo_2022.png "CyVerse Learning Center"){ width="400" }](https://learning.cyverse.org){target=_blank}
-
-[![license](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/){target=_blank} 
+[![!CyVerse Learning Center](assets/logos/krai_logo.png "CyVerse Learning Center"){ width="400" }](https://krai.ai){target=_blank}
 
 # Template usage
 一个readthedoc简易模版，目标是同步bookdown做两个类似的网页，使用相同的内容，因为看见此模版可以直接使用markdown文件，感觉是可行的。
